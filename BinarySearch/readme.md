@@ -1,6 +1,6 @@
 <h1>Binary Search Extensions</h1>
 
-<h2>A great tutorial on binary search can be found in topcoder community forums</h2>
+<h2>A great tutorial on binary search can be found on topcoder community forums</h2>
 <h2><a href="https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/">Binary Search </a>  By <strong>lovro</strong></h2>
 
 <h1>Problem Statements</h1>
